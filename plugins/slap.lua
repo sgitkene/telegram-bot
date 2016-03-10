@@ -71,6 +71,7 @@ local slaps = {
     "- uses SLAP! It's super effective!",
     "/ has no more Pokémon that can fight. / fainted.",
     "DON'T TELL ME WHAT TO DO! *slaps -*"
+    "- dared / to play a game of FNaF. They were scared shitless and died, literally."
     
 }
 
